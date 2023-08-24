@@ -66,3 +66,8 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+
+## Further Ideas
+1. Split 07 slider into smaller components
+2. Add user color split choice in 09 color generator
